@@ -24,23 +24,23 @@ http://ceur-ws.org/Vol-2563/aics_34.pdf
 
 ### Generated Images At Each Epoch:
 
-## Epoch 0     
+### Epoch 0     
 
 ![](output_images/epoch0(untrained).jpg)
 
-## Epoch 50    
+### Epoch 50    
 
 ![](output_images/50.jpg)
 
-## Epoch 500
+### Epoch 500
 
 ![](output_images/epoch500.jpg)
 
-## Epoch 1000
+### Epoch 1000
 
 ![](output_images/epoch%201000.jpg)
 
-## Epoch 1500
+### Epoch 1500
 
 ![](output_images/epoch%201500.jpg)
 
