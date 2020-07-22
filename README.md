@@ -15,4 +15,4 @@ Epoch 500 :
 ![](output_images/epoch500.jpg)
 
 Epoch 1000:
-![](output_images/epoch 1000.jpg)
+![](output_images/epoch%201000.jpg)
