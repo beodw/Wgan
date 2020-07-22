@@ -7,12 +7,4 @@ Implementation of a Wasserstein GAN, for generating images of traditional west A
 Epoch 0 :
 ![](output_images/epoch0(untrained).jpg)
 
-Epoch 50 : 
-![](output_images/50.jpg)
-
-
-Epoch 500 : 
-![](output_images/epoch500.jpg)
-
-Epoch 1000:
-![](output_images/epoch%201000.jpg)
+Epoch 50 : ![](output_images/50.jpg) Epoch 500 : ![](output_images/epoch500.jpg) Epoch 1000 : ![](output_images/epoch%201000.jpg) Epoch 1500 : ![](output_images/epoch%201500.jpg)
