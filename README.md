@@ -4,8 +4,10 @@ Implementation of a Wasserstein GAN, for generating images of traditional west A
  Requires a data_set of images in a folder named "African_masks".
  Place this folder in ./wgan/african_masks/
 
-Epoch 0 :                                       Epoch 50 : 
-![](output_images/epoch0(untrained).jpg)        ![](output_images/50.jpg) 
+Epoch 0 :  Epoch 50 :
+
+
+![](output_images/epoch0(untrained).jpg)              ![](output_images/50.jpg) 
 
 
 
