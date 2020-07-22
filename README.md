@@ -5,6 +5,14 @@ Implementation of a Wasserstein GAN, for generating images of traditional west A
 ### Link to paper : 
 http://ceur-ws.org/Vol-2563/aics_34.pdf
 
+### Sample Images Generated:
+![](output_images/sample0.jpg)
+![](output_images/sample1.jpg)
+![](output_images/sample2.jpg)
+![](output_images/sample3.jpg)
+![](output_images/sample4.jpg)
+![](output_images/epoch%201500.jpg)
+
 ### Run locally :
  1.Download and navigate to base directory.
  
@@ -32,10 +40,4 @@ Epoch 1500 :
 ![](output_images/epoch%201500.jpg)
 
 
-### Sample Images Generated:
-![](output_images/sample0.jpg)
-![](output_images/sample1.jpg)
-![](output_images/sample2.jpg)
-![](output_images/sample3.jpg)
-![](output_images/sample4.jpg)
 
