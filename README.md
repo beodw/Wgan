@@ -17,7 +17,7 @@ http://ceur-ws.org/Vol-2563/aics_34.pdf
  1.Download and navigate to base directory.
  
  2.Run python3 gan_implementation_for_west_african_masks.py
-### Run on CoLab:
+### Run on Google CoLab:
  1.Open notebook and ensure tf.version 2.x
  
  2.Upload data_set.zip file and run.
@@ -26,7 +26,6 @@ http://ceur-ws.org/Vol-2563/aics_34.pdf
 
 Epoch 0 :  
 ![](output_images/epoch0(untrained).jpg)            
-
 Epoch 50 :    
 ![](output_images/50.jpg) 
 
