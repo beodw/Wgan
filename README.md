@@ -1,13 +1,13 @@
 # Wgan
 Implementation of a Wasserstein GAN, for generating images of traditional west African masks, using TensorFlow.
-### Running locally :
+### Run locally :
  1.Download and navigate to base directory.
  2.Run python3 gan_implementation_for_west_african_masks.py
-### Running on CoLab:
+### Run on CoLab:
  1.Open notebook and ensure tf.version 2.x
  2.Upload data_set.zip file and run.
 
-### Generated Images:
+### Generated Images At Each Epoch:
 
 Epoch 0 :  
 ![](output_images/epoch0(untrained).jpg)            
