@@ -1,4 +1,4 @@
-# Wgan
+# Wgan For West-African Masks
 Implementation of a Wasserstein GAN, for generating images of traditional west African masks, using TensorFlow. The architecture is based on that described in the paper, 'Using WGAN for Improving Imbalanced Classification Performance', by Bhatias and Dahyotr.
 
 ### Run locally :
@@ -28,4 +28,4 @@ Epoch 1500 :
 
 ### Sample Images Generated:
 
-link to paper: http://ceur-ws.org/Vol-2563/aics_34.pdf
+### Link to paper: http://ceur-ws.org/Vol-2563/aics_34.pdf
